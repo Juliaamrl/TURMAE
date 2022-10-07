@@ -1,6 +1,6 @@
 # TURMAE
 
-Meu site sera para uma sorveteria,criando ele do zero.
+Meu site sera para uma gelateria,criando ele do zero.
 Para isso vou utilizar o HTML
 Apenas estou programando🏮
 Licença de uso;
